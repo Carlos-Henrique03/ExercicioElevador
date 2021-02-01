@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\bin\Debug\netcoreapp3.1\ExercisesResolution1.exe
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\bin\Debug\netcoreapp3.1\ExercisesResolution1.deps.json
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\bin\Debug\netcoreapp3.1\ExercisesResolution1.runtimeconfig.json
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\bin\Debug\netcoreapp3.1\ExercisesResolution1.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\bin\Debug\netcoreapp3.1\ExercisesResolution1.dll
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\bin\Debug\netcoreapp3.1\ExercisesResolution1.pdb
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.dll
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.pdb
+C:\Users\pc\source\repos\ExercisesResolution1\ExercisesResolution1\obj\Debug\netcoreapp3.1\ExercisesResolution1.genruntimeconfig.cache
